@@ -1,0 +1,20 @@
+.header {
+    width: auto;
+    .header_dev {
+      background-color:#d0b787;
+      height: 40px;
+      marquee {
+        p{
+        color: rgb(0, 0, 0);
+         font-size: 25px;     
+        }
+       
+      }
+    }
+  }
+@media(max-width:371px){
+    .header{
+
+        width: auto;
+    }
+}
